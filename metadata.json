@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Mentor — Live Interview Simulator",
+  "description": "Realistic live voice interview simulator with AI interviewers Ananya and Arjun, real-time Gemini voice interaction, NLP-powered answer evaluation, and comprehensive interview preparation coaching.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
